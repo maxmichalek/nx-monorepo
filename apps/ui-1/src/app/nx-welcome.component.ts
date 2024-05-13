@@ -1,5 +1,5 @@
-import { Component, ViewEncapsulation } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { Component, ViewEncapsulation } from '@angular/core';
 
 @Component({
   selector: 'app-nx-welcome',
@@ -431,7 +431,7 @@ import { CommonModule } from '@angular/common';
         <!--  WELCOME  -->
         <div id="welcome">
           <h1>
-            <span> Hello there, </span>
+            <span> Hi there, </span>
             Welcome ui-1 👋
           </h1>
         </div>
