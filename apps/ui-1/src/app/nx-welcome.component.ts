@@ -435,6 +435,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
             Welcome ui-1 👋
             Some other important Text ...
             Some new feature ...
+            Important hot fix!
           </h1>
         </div>
         <!--  HERO  -->
