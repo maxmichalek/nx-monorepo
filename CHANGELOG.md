@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/maxmichalek/nx-monorepo/compare/v1.0.0...v1.2.0) (2024-05-14)
+
+
+### Features
+
+* release 1.2.0 ([a110dfb](https://github.com/maxmichalek/nx-monorepo/commit/a110dfb01a8ad6098505018c5e682540ddc9035f))
+* **ui-1:** some other new feature ([3983938](https://github.com/maxmichalek/nx-monorepo/commit/3983938fdd0661771276bcd7b38fd384fcff1c32))
+
+
+### Bug Fixes
+
+* **ui-1:** add important bug fix ([aa364e1](https://github.com/maxmichalek/nx-monorepo/commit/aa364e15afbfce159f8658c35727422cd0df11d2))
+* **ui-1:** some other important bug fix ([775a6ab](https://github.com/maxmichalek/nx-monorepo/commit/775a6ab6703b064f2b382e48dfe40d22a11881f8))
+
 ## 1.0.0 (2024-05-14)
 
 
