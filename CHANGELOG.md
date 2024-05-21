@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.3.0](https://github.com/maxmichalek/nx-monorepo/compare/v1.2.1...v1.3.0) (2024-05-21)
+
+
+### Features
+
+* **ui-1:** add feature 1 ([72ffc71](https://github.com/maxmichalek/nx-monorepo/commit/72ffc71312591b6970a688ba2bdd844bf7597f06))
+
+
+### Bug Fixes
+
+* **ui-1:** ??????????? ([1f1b370](https://github.com/maxmichalek/nx-monorepo/commit/1f1b37085f5f9165d244d0855fa8a32627d633f7))
+* **ui-1:** added first fix ([72ffc71](https://github.com/maxmichalek/nx-monorepo/commit/72ffc71312591b6970a688ba2bdd844bf7597f06))
+* **ui-1:** added first fix ([3269282](https://github.com/maxmichalek/nx-monorepo/commit/3269282d75b18e94cab3f6c03b48afb9b5dfb92e))
+* **ui-1:** added first fix fix(ui-1): added second fix ([150f3fb](https://github.com/maxmichalek/nx-monorepo/commit/150f3fbf8ace2bfdb973a0478734cc70b210dbaf))
+* **ui-1:** added second fix ([72ffc71](https://github.com/maxmichalek/nx-monorepo/commit/72ffc71312591b6970a688ba2bdd844bf7597f06))
+* **ui-1:** added second fix ([7099f65](https://github.com/maxmichalek/nx-monorepo/commit/7099f65e11bfd2252769c7609fdcc9d6de990749))
+* **ui-1:** first commit of branch fix/test-9 ([ee1a63f](https://github.com/maxmichalek/nx-monorepo/commit/ee1a63f978bec508d49cf02f185e77b2d2dc6c37))
+* **ui-1:** second commit of branch fix/test-9 ([e907833](https://github.com/maxmichalek/nx-monorepo/commit/e9078333f8d5d0d8bdbb1ee19c5643c9e8ba2b22))
+
 ## [1.2.1](https://github.com/maxmichalek/nx-monorepo/compare/v1.2.0...v1.2.1) (2024-05-15)
 
 
